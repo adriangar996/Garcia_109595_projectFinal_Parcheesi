@@ -1,2 +1,2 @@
-# Garcia_109595_project01_Parcheesi
+# Garcia_109595_projectFinal_Parcheesi
 Parcheesi Game
