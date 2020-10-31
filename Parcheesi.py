@@ -1,3 +1,6 @@
+#Parcheesi game by Adrian Garcia 
+#and Roberto Bonilla
+
 import random
 
 from graphics import*
