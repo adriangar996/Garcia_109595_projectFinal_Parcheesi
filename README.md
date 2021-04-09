@@ -2,7 +2,6 @@
 Parcheesi Game
 by:
 Adrian Garcia
-Roberto Bonilla
 
 Python program of Parcheesi game which creates 
 a board with colors blue, red, green and yellow 
